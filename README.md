@@ -1,6 +1,6 @@
 # Todo App
 
-This is a simple app built using MongoDB, NodeJS and AngularJS.
+This is a simple app built using MongoDB and NodeJS.
 
 * NodeJS provives an API to the DB.
 * AngularJS provides the frontend using the API.
