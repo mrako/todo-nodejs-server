@@ -5,6 +5,8 @@ This is a simple app built using MongoDB and NodeJS.
 * NodeJS provives an API to the DB.
 * AngularJS provides the frontend using the API.
 
+Add a change to show remotes
+
 ## Prerequisites
 
 * [MongoDB](http://www.mongodb.org/)
