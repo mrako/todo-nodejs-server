@@ -15,6 +15,8 @@ mongoose.connect(database.url);
 
 //app.use(express.static(__dirname + '/public'));
 
+//tehdään muutos
+
 app.use(cors);
 app.use(bodyParser.json());
 app.use(morgan('dev', {format: 'dev', immediate: true}));
